@@ -2,11 +2,11 @@
 
 DESCRIPTION
 
-Background 
+# Background 
 
 Mike Goodman, the head of Product Management of a retail products company, is responsible for determining which products his company should continue to offer for sale and which products should be discontinued from the company’s product catalog. 
 
-Objective
+# Objective
 
 
 To build a dashboard that will present monthly sales performance by product segment and product category to help client identifying the segments and categories that have met or exceeded their sales targets, as well as those that have not met their sales targets. 
@@ -21,7 +21,7 @@ We will be using two datasets here i.e. Sample - Superstore and Sales_Target.
 
 Within this file you will find the following fields:
 
-Field 	Description
+# Field 	Description
 * Row ID	Observation Index
 * Order ID	Unique Order ID of a product
 * Order Date	Order Placement Date
@@ -47,7 +47,7 @@ Field 	Description
  Sales-Target will cover the target data;
 
 
-Within this file you will find the following fields:
+# Within this file you will find the following fields:
 
 Field 	Description
 * Category	Product category
@@ -58,7 +58,7 @@ Field 	Description
  
 
 
-Analysis Tasks
+# Analysis Tasks
 
 * Use the Saved Sample – Superstore dataset. 
 * Create a bullet chart with Category and Segment dimensions and Sales measures. 
@@ -68,8 +68,8 @@ Analysis Tasks
 * Add a filter so that the user can select one, more than one, or all years. 
 * Create a dashboard with this view.
  
-Sample Output
-
-
-
-Download the Datasets from here
+# Tools Used :-
+Tableau 10 Desktop
+You can directly see the dashboard on Tableau Public Server. 
+Click on the below link
+https://public.tableau.com/profile/suprava.sahoo1821#!/vizhome/SalesPerformanceAnalysis_15998819509380/Dashboard
